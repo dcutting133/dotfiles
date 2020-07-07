@@ -1,0 +1,5 @@
+[options]
+font		= MesloLGS NF
+allow_bold	= true
+cursor_blink	= off
+audible_bell	= false
